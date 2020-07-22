@@ -1,2 +1,3 @@
-# cv-workgroup
-Samvera Controlled Vocabularies Working Group
+# Samvera Controlled Vocabulaires Working Group
+
+
