@@ -1,3 +1,3 @@
-# Samvera Controlled Vocabulaires Working Group
+# Samvera Controlled Vocabularies Working Group
 
 
